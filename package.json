@@ -1,0 +1,17 @@
+{
+  "name": "twitterAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inspirational-quotes": "^1.0.8",
+    "twitter": "^1.7.1",
+    "twitter-api-v2": "^0.3.0"
+  }
+}
